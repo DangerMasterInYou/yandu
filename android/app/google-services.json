@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "649312396208",
+    "firebase_url": "https://yandu-ad77b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "yandu-ad77b",
+    "storage_bucket": "yandu-ad77b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649312396208:android:bcaedae0d0ed35d15b2c75",
+        "android_client_info": {
+          "package_name": "com.example.yandu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649312396208-5dnf955vdm88qu6cg3g4qmc3jsn8gq40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cYrghIoMmFZ86IFCyTd6_DesLSeu_Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649312396208-5dnf955vdm88qu6cg3g4qmc3jsn8gq40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "649312396208-o219ha5gbhmgqgrftg675osijbv3c2hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yandu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
